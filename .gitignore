@@ -1,0 +1,28 @@
+# Ignore o ambiente virtual
+venv/
+__pycache__/
+
+# Ignore arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos de logs
+*.log
+
+# Ignore arquivos de cache
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore configurações locais do editor
+.vscode/
+.idea/
+
+# Ignore arquivos temporários criados por testes ou execução
+*.tmp
+*.swp
+
+# Ignore arquivos ocultos do Git ou do sistema
+.sass-cache
+*.bak
+*.old
